@@ -1,0 +1,58 @@
+segment_sources:
+  I324E412A:
+    type: origin_type
+    relation: translation
+    language: sa
+  IA20266CB:
+    type: origin_type
+    relation: translation
+    language: zh
+  IB082CD81:
+    type: origin_type
+    relation: translation
+    language: zh
+  ID5935A16:
+    type: origin_type
+    relation: translation
+    language: zh
+  I2C81AC95:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  10da91f1e8ee44a9b9d08934598aaca4:
+    I324E412A: 4a74f47be8aa4caf9a056a2d8f0a566e
+    IA20266CB: c2858da046c5485b8f2e0ee99bbde462
+    IB082CD81: aceff5b60dd94d22aaf436efc2406f52
+    ID5935A16: 1d07d6872f914a69a2a3606a75f5b6e6
+    I2C81AC95: 9103f04aef0042f999d04fbdee7f140a
+  611218c99c1d4ed6b9af4151d22f5e2f:
+    I324E412A: 74e15325dc144dd98929bd7c3bb5d5e9
+    IA20266CB: 053097660a9643b3b4cc9ed7875577fa
+    IB082CD81: d50c92155aa6401885e4a5095b20ee30
+    ID5935A16: 288485b1fc34426fa0b9b122467b55a4
+    I2C81AC95: 8c2c486bf544437489e349fa8097a968
+  4afc2156df8f4ace8fc8e3ac0d7668bb:
+    I324E412A: 1e48f47c722f4a42817c741ed9c83a33
+    IA20266CB: 5b1dd0adeeb949c7b802f92655f31d9a
+    IB082CD81: 3bbef21055ab43c8b329524c94754dcb
+    ID5935A16: 7565e505997a4a9699339db1ee9f33cf
+    I2C81AC95: f2bdb002454c40a8bcaa73581a9d1669
+  79002cae51624ddf945ee70a4718e33b:
+    I324E412A: 433aada1412744b980a97566ded0208a
+    IA20266CB: af11048cce2e426c9c93afa8cfaffa51
+    IB082CD81: 47468ce941224b2b8c9d739d1a0d7b7a
+    ID5935A16: 4e8074a60a344a93a9459b5b53685f00
+    I2C81AC95: 8d3a8d5c37b641ab8b5adc8085dc77d3
+  1c326a136b184e60a0981ab05a6c18c4:
+    I324E412A: d637c15a969e4e218f11dbdfe0fd3be3
+    IA20266CB: ca009a11c0bf4b809417e8e8d60a995d
+    IB082CD81: dfb21a9fc2c04b8ebb29534de547ccda
+    ID5935A16: 687de214135e4787b5ee8931a72b1159
+    I2C81AC95: ae3b03d3e02b40c1a67c1fe8d1b1d515
+  4c05539191b94196aada4d2ede4f3fd1:
+    I324E412A: 9ba5542642f54a16afdf11c8adb3286e
+    IA20266CB: 76c9b29bc22a482f9b1f202a106e37e1
+    IB082CD81: 4362e46b020346f9b25e776892ce843d
+    ID5935A16: 434d638992e148fe90d7b9eaf2db12e3
+    I2C81AC95: bf16d2ce108c440c97619470674f1a82

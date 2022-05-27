@@ -1,0 +1,34 @@
+segment_sources:
+  I324E412A:
+    type: origin_type
+    relation: translation
+    language: sa
+  IA20266CB:
+    type: origin_type
+    relation: translation
+    language: zh
+  IB082CD81:
+    type: origin_type
+    relation: translation
+    language: zh
+  ID5935A16:
+    type: origin_type
+    relation: translation
+    language: zh
+  I2C81AC95:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  7455cb6e8c874654b7035f728278cb91:
+    I324E412A: e18aae243ce847e19ed20f97fd0e3b44
+    IA20266CB: 809dd217f584474a9edf4b8ed4872072
+    IB082CD81: 43d567df7a6b4848a07f73d8fbe9fadf
+    ID5935A16: 798ae53dc1664f3c8f3ad46282004710
+    I2C81AC95: cb580cf9c0674c5f99e18fab365c7fc1
+  8c82a478dd3544e3ae76ef1c48ffc6fc:
+    I324E412A: 76c3fd170a8346efba47cd19cdb13f01
+    IA20266CB: c0834ec066324d7dbd17fe84cc271e0b
+    IB082CD81: 2aef6cb543ea4b0c9966936f5ee6b5cd
+    ID5935A16: 0b66cc3039d14e6687a410dac9afdd55
+    I2C81AC95: 54049cdfab954665b43f0846ab2a6e5a

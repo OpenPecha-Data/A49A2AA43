@@ -1,0 +1,28 @@
+segment_sources:
+  I324E412A:
+    type: origin_type
+    relation: translation
+    language: sa
+  IA20266CB:
+    type: origin_type
+    relation: translation
+    language: zh
+  IB082CD81:
+    type: origin_type
+    relation: translation
+    language: zh
+  ID5935A16:
+    type: origin_type
+    relation: translation
+    language: zh
+  I2C81AC95:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  9e11751b4b8e44fbbdbfda067738391f:
+    I324E412A: 4975ce924f4b476aa6b35e2ed718ad27
+    IA20266CB: 91f081659ef842198f85ce339062df11
+    IB082CD81: 4db89ea852b4461c99add8e01db34589
+    ID5935A16: af6a88fbfff341d2ac1d47d8053d9534
+    I2C81AC95: da52624b63db482b8cd43c435295bcf9
